@@ -16,7 +16,7 @@ body{
 }
 
 .box{
-    max-width: 500px;
+    max-width: 700px;
     margin: auto;
     position: relative;
 }
@@ -44,7 +44,7 @@ body{
   
 .box::after{
 content: '';
- display: block;
+display: block;
 position: absolute;
 top: 0;
 left: 0;
